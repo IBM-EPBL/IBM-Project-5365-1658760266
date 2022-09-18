@@ -1,7 +1,6 @@
 ## IBM-Project-5365-1658760266
 
-
-![Simple Work LinkedIn Banner (1)](https://user-images.githubusercontent.com/53464755/190916696-44bee9f9-c349-4b92-bc6d-20707d38156a.gif)
+![2](https://user-images.githubusercontent.com/53464755/190918121-50516864-614a-45f1-b0ae-f8daffc7a0ba.jpg)
 
 
 
