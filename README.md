@@ -36,7 +36,7 @@ Use for instance : https://github.com/IBM-EPBL/IBM-Project-5365-1658760266
     
            * Problem Statement : 
            * Empathy Map :
-           * Literature Review :
+           * Literature Review : https://github.com/IBM-EPBL/IBM-Project-5365-1658760266/blob/main/Literature%20survey.pdf
     
     
 <p>&emsp; Project Objectives:</p>
