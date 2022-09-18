@@ -1,6 +1,8 @@
 ## IBM-Project-5365-1658760266
 
 
+![Simple Work LinkedIn Banner (1)](https://user-images.githubusercontent.com/53464755/190916696-44bee9f9-c349-4b92-bc6d-20707d38156a.gif)
+
 
 
 # Fertilizers Recommendation System For Disease Prediction
