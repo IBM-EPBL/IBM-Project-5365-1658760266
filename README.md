@@ -35,7 +35,7 @@ Use for instance : https://github.com/IBM-EPBL/IBM-Project-5365-1658760266
        Project Progress:
     
            * Problem Statement : 
-           * Empathy Map : https://github.com/IBM-EPBL/IBM-Project-5365-1658760266/blob/main/Empathy%20map.pdf
+           * Empathy Map : 
            * Literature Review : https://github.com/IBM-EPBL/IBM-Project-5365-1658760266/blob/main/Literature%20survey.pdf
     
     
